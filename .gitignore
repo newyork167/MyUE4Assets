@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+Binaries/
+Intermediate/
+Output/
+Releases/
+Saved/
+MyUE4Assets.VC.db
+.vs
+*-DebugGame.dll
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.pdb
+*.exe
+*.log
+*.target.xml
+*.target
+*.modules
+*.opendb
